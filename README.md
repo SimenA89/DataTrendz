@@ -1,2 +1,4 @@
 # DataTrendz
 A dual-focus analytics tool merging football analytics and Amazon bestseller trends via Tableau and Power BI. It enhances decision-making in sports and publishing with interactive data visualizations.
+
+![1](https://github.com/SimenA89/DataTrendz/assets/61123960/9928bb30-9c6d-438e-b64f-9223fc71bed2)
